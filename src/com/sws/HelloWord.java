@@ -5,7 +5,7 @@ public class HelloWord {
 	public static void main(String[] arg ){
 		System.out.print("bb");
 
-		System.out.print("xxxxbbcc");
+		System.out.print("xxxxbbccdd");
 
 
 		System.out.print("xxxxbbddcc");
@@ -14,6 +14,7 @@ public class HelloWord {
 
 		System.out.print("xxxxbbccdd");
 
+		System.out.print("xxxxbbdd");
 		System.out.print("xxxxbbdd");
 
 	}
