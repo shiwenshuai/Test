@@ -7,6 +7,13 @@ public class HelloWord {
 
 		System.out.print("xxxxbbccdd");
 
+
+		System.out.print("xxxxbbddcc");
+
+
+
+		System.out.print("xxxxbbcc");
+
 		System.out.print("xxxxbbdd");
 
 	}
